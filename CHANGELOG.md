@@ -17,4 +17,4 @@ This repository is part of the open components ecosystem.
 
 ### Features
 
-* :rocket: first commit e0a5c95
+* :rocket: first commit ([e0a5c95](https://github.com/foxprogs/test-changelog/commit/e0a5c95))
