@@ -1,6 +1,14 @@
 # Changelog
 
 This repository is part of the open components ecosystem.
+
+## [1.2.0](https://github.com/foxprogs/test-changelog/compare/v1.1.0...v1.2.0) (2023-01-10)
+
+
+### Features
+
+* :sparkles: cool feature ([96f9284](https://github.com/foxprogs/test-changelog/commit/96f92847f170666489f61087d1b88b37d72f34ec))
+
 ## [1.1.0](https://github.com/foxprogs/test-changelog/compare/v1.0.2...v1.1.0) (2023-01-10)
 
 
